@@ -3,12 +3,13 @@ body {
     font: 20px Lucida
 }
 .navbar {
-    background-color: #E7CB0F;
+    background-color: #CF9079;
 }
 
 .quem-somos {
-    background-color: #56CA3D;
+    background-color: #F3EEE5;
     color: #404240;
+    font: 20px Lucida
 }
 
 .margin {
@@ -17,6 +18,20 @@ body {
 }
 
 .parceiros {
-    background-color: #1B55DB;
+    background-color: #DBC6BE;
     padding: 10px;
+    color: #404240;
+    font: 20px Lucida
+}
+
+.servicos {
+    background-color: #F3EEE5;
+    color: #404240;
+    font: 20px Lucida
+}
+
+.bg-footer {
+    background-color: #DBC6BE;
+    color: #404240;
+    font: 10px Lucida
 }
